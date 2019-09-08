@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df29cd53-3b57-4ccf-a882-d64dc77dcb0a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DataStructure" />
+  </component>
+  <component name="ProjectId" id="1Q0azhfCOAzbAg2RyjCgCyTfVLX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BFmatch">
+    <configuration name="BFmatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap08.BFmatch" />
+      <module name="DataSturcture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chap08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap06.BubbleSort" />
+      <module name="DataSturcture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chap06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EuclidGCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap05.EuclidGCD" />
+      <module name="DataSturcture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chap05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap05.Factorial" />
+      <module name="DataSturcture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chap05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntStackTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap04.IntStackTester" />
+      <module name="DataSturcture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chap04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BFmatch" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.EuclidGCD" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.IntStackTester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df29cd53-3b57-4ccf-a882-d64dc77dcb0a" name="Default Changelist" comment="" />
+      <created>1566910233250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566910233250</updated>
+      <workItem from="1566910241016" duration="718000" />
+      <workItem from="1567048323264" duration="11095000" />
+      <workItem from="1567145210773" duration="8776000" />
+      <workItem from="1567315495156" duration="3059000" />
+      <workItem from="1567335893235" duration="1092000" />
+      <workItem from="1567424007908" duration="4337000" />
+      <workItem from="1567428382786" duration="78000" />
+      <workItem from="1567586348471" duration="1850000" />
+      <workItem from="1567655755829" duration="1967000" />
+      <workItem from="1567738267218" duration="706000" />
+      <workItem from="1567740837173" duration="1602000" />
+      <workItem from="1567910928224" duration="5534000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
